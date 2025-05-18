@@ -1,0 +1,6 @@
+path: C:\VettriProjects\StealingLicensePlates\OIDv4_ToolKit\OID\Dataset
+train: train\VehicleRegistrationPlate
+val: validation\VehicleRegistrationPlate
+test: test\VehicleRegistrationPlate
+names:
+  0: vehicle_registration_plate
